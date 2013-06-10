@@ -1,0 +1,8 @@
+obj\Debug\iTunesDuplicateRemover.exe
+obj\Debug\iTunesDuplicateRemover.pdb
+bin\Debug\iTunesDuplicateRemover.exe
+bin\Debug\iTunesDuplicateRemover.pdb
+bin\Debug\Interop.iTunesLib.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.iTunesLib.dll
+obj\Debug\iTunesDuplicateRemover.csproj.ResolveComReference.cache
